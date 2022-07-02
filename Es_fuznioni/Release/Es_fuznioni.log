@@ -1,0 +1,3 @@
+﻿  main.c
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Es_fuznioni.vcxproj -> \\Mac\Home\Desktop\Es_fuznioni\Release\Es_fuznioni.exe

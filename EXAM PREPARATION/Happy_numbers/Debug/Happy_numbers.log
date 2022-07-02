@@ -1,0 +1,3 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol _happyNumber referenced in function _main
+C:\Happy_numbers\Debug\Happy_numbers.exe : fatal error LNK1120: 1 unresolved externals

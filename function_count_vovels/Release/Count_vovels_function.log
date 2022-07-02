@@ -1,0 +1,3 @@
+﻿  main.c
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Count_vovels_function.vcxproj -> \\Mac\Home\Desktop\Count_vovels_function\Release\Count_vovels_function.exe
